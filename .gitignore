@@ -1,0 +1,28 @@
+# Visual Studio files and directories
+.vs/
+x64/
+Debug/
+Release/
+*.user
+*.suo
+*.pdb
+*.obj
+*.exe
+*.log
+*.tlog
+*.ipdb
+*.iobj
+*.ilk
+*.idb
+*.cache
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.opendb
+
+# Build output directories
+bin/
+obj/
+Madzao Academy/x64/
+Madzao Academy/Debug/
+Madzao Academy/Release/
